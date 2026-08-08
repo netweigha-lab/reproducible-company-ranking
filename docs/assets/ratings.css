@@ -24,7 +24,7 @@
 .featured-release .links .primary-link{background:var(--signal)!important;border-color:var(--signal);color:var(--ink)!important}
 .release-result{display:flex;min-height:320px;flex-direction:column;justify-content:space-between;border:1px solid #465057;padding:28px;background:linear-gradient(145deg,#182027,#0d1115)}
 .release-result span{font:700 .72rem/1 var(--mono);text-transform:uppercase;color:var(--signal)}
-.release-result strong{display:block;font-size:clamp(4rem,8vw,7.5rem);line-height:.85;letter-spacing:-.09em}
+.release-result strong{display:block;max-width:100%;font-size:clamp(3.75rem,5.5vw,6.25rem);line-height:.85;letter-spacing:-.075em;white-space:nowrap}
 .release-result p{max-width:260px;color:#aeb7bc}
 .register{width:100%;border-collapse:collapse;background:var(--white)}
 .register th,.register td{padding:15px;border:1px solid var(--line);text-align:left}
