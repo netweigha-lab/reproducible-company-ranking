@@ -8,6 +8,8 @@
 .catalog article{min-height:260px;padding:28px;background:var(--white);border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
 .catalog h3{font-size:1.65rem;letter-spacing:-.045em;margin:20px 0 12px}
 .catalog-index{font:700 .72rem/1 var(--mono);color:var(--signal)}
+.catalog .links a,.catalog .links a:visited{color:var(--white)!important}
+.catalog .links a:hover,.catalog .links a:focus-visible{color:var(--ink)!important}
 .status{display:inline-block;border:1px solid var(--line);padding:6px 8px;font:700 .67rem/1 var(--mono);text-transform:uppercase}
 .status.waiting{background:#e8e4d8}
 .status.published{background:var(--signal);color:var(--ink);border-color:var(--signal)}
