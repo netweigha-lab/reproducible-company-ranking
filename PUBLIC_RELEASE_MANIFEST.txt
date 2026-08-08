@@ -1,0 +1,36 @@
+# Единственный allowlist будущего публичного репозитория.
+# Любой отсутствующий здесь файл остаётся внутренним и не переносится в release.
+README.md
+PUBLIC_RELEASE_MANIFEST.txt
+METHODOLOGY.md
+FORMULAS.md
+WORKED_EXAMPLE.md
+CONFIDENCE_POLICY.md
+GLOSSARY.md
+APPLICABILITY.md
+METHOD_COMPARISON.md
+SOURCES.md
+LIMITATIONS.md
+EDITORIAL_POLICY.md
+CHANGELOG.md
+CITATION.cff
+LICENSE_STATUS.md
+metadata.json
+docs/index.html
+docs/about.html
+docs/ratings.html
+docs/robots.txt
+docs/sitemap.xml
+docs/site.webmanifest
+docs/assets/base.css
+docs/assets/enhancements.css
+docs/assets/brand-v2.css
+docs/assets/ratings.css
+docs/assets/app.js
+docs/assets/print.css
+docs/assets/favicon.svg
+docs/assets/netweigha-mark.svg
+docs/assets/og-card.png
+docs/assets/og-square.png
+docs/assets/og-4x3.png
+docs/assets/netweigha-graph-hero-v1.jpg
