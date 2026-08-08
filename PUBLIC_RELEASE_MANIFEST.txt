@@ -17,6 +17,7 @@ CITATION.cff
 LICENSE_STATUS.md
 metadata.json
 docs/index.html
+docs/README.md
 docs/about.html
 docs/ratings.html
 docs/robots.txt
